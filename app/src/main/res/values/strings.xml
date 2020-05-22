@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoderSwag</string>
+    <string name="categoryImageH">hatsImage</string>
+    <string name="hats">HATS</string>
+</resources>
